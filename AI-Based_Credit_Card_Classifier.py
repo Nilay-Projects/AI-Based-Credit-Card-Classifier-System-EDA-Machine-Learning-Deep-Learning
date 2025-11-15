@@ -33,7 +33,7 @@ import joblib
 # ------------------------
 # 1. Load the data
 # ------------------------
-def load_data(path="data/UCI_Credit_Card.csv"):
+def load_data(path="Credit_Card.csv"):
     # Read the CSV; sometimes Kaggle version has different header row
     df = pd.read_csv(path)
     print("Data loaded from:", path)
@@ -345,3 +345,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
