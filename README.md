@@ -164,8 +164,8 @@ Key Highlights:
 ---
 
 ## Author
-**Your Name** – Aspiring Data Scientist / Python Developer  
-- GitHub: [YourGitHub](https://github.com/YourUsername)  
-- Email: your.email@example.com  
+**Nilay Rana** – Aspiring Data Scientist / Python Developer  
+- GitHub: [Nilay Projects](https://github.com/Nilay-Projects)  
+- Email: nilayrana2@gmail.com  
 
-> This project demonstrates a professional, end-to-end workflow for credit risk prediction, combining **data analysis, ML, and DL models**, making it ideal for financial analytics and risk management roles at institutions like JPMorgan Chase.
+
