@@ -1,4 +1,4 @@
-# Credit Risk Prediction System: EDA, Machine Learning & Deep Learning
+# Credit Card Risk Prediction System: EDA, Machine Learning & Deep Learning
 
 **End-to-end Credit Risk Prediction System using the UCI Credit Card Default dataset. This project demonstrates data cleaning, exploratory data analysis (EDA), feature engineering, machine learning, and deep learning to predict customer credit default — simulating real-world financial risk modeling workflows used in banks like JPMorgan Chase.**
 
